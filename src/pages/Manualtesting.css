@@ -1,0 +1,29 @@
+/* button:hover + #btn{
+    visibility:visible;
+} */
+
+/* .options{
+    margin-left: 500px;
+} */
+#ansbtn{
+    margin-left: 650px;
+}
+#heading{
+    display: inline;
+}
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/016/343/315/small/hand-pointing-growth-business-financial-arrow-to-success-target-graph-of-financial-investment-and-stock-market-plan-analysis-profit-and-goal-achievement-leadership-free-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+/* h3,p,li{
+    color: white;
+} */
+.correct:checked+label{
+    background-color: #28a745;
+}
+.incorrect:checked+label{
+    background-color: #dc3545;
+}

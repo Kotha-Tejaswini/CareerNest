@@ -1,0 +1,60 @@
+.heading{
+    display: flex;               
+    justify-content: center; 
+}
+#search{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/016/343/315/small/hand-pointing-growth-business-financial-arrow-to-success-target-graph-of-financial-investment-and-stock-market-plan-analysis-profit-and-goal-achievement-leadership-free-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+/* #login{
+    margin-top: 40px;
+    margin-left: 1100px;
+    font-size: 15px;
+}
+#signup{
+    font-size: 15px;
+} */
+#reflinks{
+    /* margin-top: 60px; */
+    margin-left: 800px;
+}
+.card{
+    width: 280px;
+    background-color: cadetblue;
+    border-radius: 10px;
+    margin-left: 45px;
+    height: 380px;
+}
+.card-description{
+    font-size: 18px;
+}
+.content p{
+    margin-left: 10px;
+}
+
+.content h2{
+    margin-left: 60px;
+}
+
+.card img{
+    width: 150px;
+    margin-left:70px;
+    margin-top: 20px;
+}
+
+.card-container{
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}

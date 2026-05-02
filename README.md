@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## RUN BACKEND
+cd backend
+node app.js
+
+## RUN FRONTEND
+npm start
+
+## CONNECT TO DB
+USE careernest;
+# If need to change pwd
+ALTER USER 'root'@'localhost' IDENTIFIED BY '1234';
+FLUSH PRIVILEGES;
