@@ -1,3 +1,5 @@
+“CareerNest is a multi-LLM GenAI application where different models handle question generation, evaluation, and personalized recommendations. It can be extended into an AI agent by adding autonomous decision-making and tool integration.”
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
